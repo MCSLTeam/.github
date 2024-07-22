@@ -14,7 +14,7 @@ MCSL开发组 是一个非营利性、非商业性质的开发组织。
 
 ### MCSL-Sync 服务器核心镜像同步工具
 全自研爬取方式，支持高达 25 种 MC 服务器核心，利用 Quart 框架优秀的性能，快速获取核心。分离式架构，部署更方便。  
-> **在线使用：<https://sync.mcsl.com.cn/> **  
+> ** 在线使用：<https://sync.mcsl.com.cn/> **  
 > GitHub·后端：<https://github.com/MCSLTeam/MCSL-Sync-Backend/>  
 > GitHub·前端：<https://github.com/MCSLTeam/MCSL-Sync-Frontend/>  
 > GitHub·节点端：<https://github.com/MCSLTeam/MCSL-Sync-Nodeside/>  
