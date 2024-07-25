@@ -17,7 +17,7 @@ MCSL开发组 是一个非营利性、非商业性质的开发组织。
 > __在线使用：<https://sync.mcsl.com.cn/>__  
 > GitHub·后端：<https://github.com/MCSLTeam/MCSL-Sync-Backend/>  
 > GitHub·前端：<https://github.com/MCSLTeam/MCSL-Sync-Frontend/>  
-> GitHub·节点端：<https://github.com/MCSLTeam/MCSL-Sync-Nodeside/>  
+> GitHub·节点端：<https://github.com/MCSLTeam/MCSL-Sync-NodeClient/>  
 
 ### MCServerLauncher Future 开服工具  
 下一世代 MCSL，使用 C# 编写，基于 .NET6.0 跨平台，不止于 Minecraft 服务器架设，进程分离，数据加密存储，网络通信规范，更支持 Web 管理、WPF 启动器。  
