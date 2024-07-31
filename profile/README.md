@@ -23,7 +23,8 @@ MCSL开发组 是一个非营利性、非商业性质的开发组织。
 下一世代 MCSL，使用 C# 编写，基于 .NET6.0 跨平台，不止于 Minecraft 服务器架设，进程分离，数据加密存储，网络通信规范，更支持 Web 管理、WPF 启动器。  
 __暂未完工，加紧进度中，敬请期待。__  
 > GitHub·WPF 启动器与守护进程：<https://github.com/MCSLTeam/MCServerLauncher-Future>  
-> GitHub·Web 管理面板：<https://github.com/MCSLTeam/MCServerLauncher-Future-Web>  
+> GitHub·Web 管理面板：<https://github.com/MCSLTeam/MCServerLauncher-Future-Web>
+> GitHub·Rust 守护进程：<https://github.com/MCSLTeam/mcsl-daemon-rs>  
 
 ## 我们的殊荣  
 - 《MCServerLauncher 2 软件（MCSL2） V2 中华人民共和国计算机软件著作权证书
