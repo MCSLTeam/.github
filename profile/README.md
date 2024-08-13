@@ -27,4 +27,4 @@ __暂未完工，加紧进度中，敬请期待。__
 > GitHub·Rust 守护进程：<https://github.com/MCSLTeam/mcsl-daemon-rs>  
 
 ## 我们的殊荣  
-- 《MCServerLauncher 2 软件（MCSL2） V2 中华人民共和国计算机软件著作权证书
+- 《MCServerLauncher 2 软件（MCSL2） V2 中华人民共和国计算机软件著作权证书》
